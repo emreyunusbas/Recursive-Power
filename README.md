@@ -1,7 +1,7 @@
 ---
-title: Recursive Power Programı
-description: Java'da geliştirilen "Recursive Power" programının kodları
-author: Yunus Emre BAŞ
+Başlık: Recursive Power Programı
+Açıklama: Java'da geliştirilen "Recursive Power" programının kodları
+Yayıncı: Yunus Emre BAŞ
 ---
 
 # Recursive Power Programı
